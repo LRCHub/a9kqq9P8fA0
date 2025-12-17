@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Hand in Hand",
+  "base_artist": "livetune",
+  "createdAt": "2025-12-17T06:15:06.710116Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hand In Hand",
+      "artist": "Opus III",
+      "has_synced": false,
+      "path": "select/01_Hand_In_Hand_Opus_III.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hand in Hand (Gewalt ist doof)",
+      "artist": "Blümchen",
+      "has_synced": true,
+      "path": "select/02_Hand_in_Hand_(Gewalt_ist_doof)_Blümchen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Ola Hand In Hand",
+      "artist": "Masterboy",
+      "has_synced": true,
+      "path": "select/03_La_Ola_Hand_In_Hand_Masterboy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hand In Hand",
+      "artist": "Elvis Costello & The Attractions",
+      "has_synced": true,
+      "path": "select/04_Hand_In_Hand_Elvis_Costello_&_The_Attractions.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hand In Hand",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/05_Hand_In_Hand_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hand In Hand",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/06_Hand_In_Hand_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hand In Hand (Live At \"Rock im Park\", Nürnberg)",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/07_Hand_In_Hand_(Live_At__Rock_im_Park_,_Nürnberg)_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hand In Hand (Live)",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/08_Hand_In_Hand_(Live)_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hand In Hand",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/09_Hand_In_Hand_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hand in Hand - Bonus Track",
+      "artist": "The Presidents of the United States of America",
+      "has_synced": true,
+      "path": "select/10_Hand_in_Hand_-_Bonus_Track_The_Presidents_of_the_United_States_of_America.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hand In Hand (2021 Remaster)",
+      "artist": "Elvis Costello",
+      "has_synced": true,
+      "path": "select/11_Hand_In_Hand_(2021_Remaster)_Elvis_Costello.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hand In Hand - Street Version",
+      "artist": "DJ Quik feat. 2nd II None",
+      "has_synced": true,
+      "path": "select/12_Hand_In_Hand_-_Street_Version_DJ_Quik_feat._2nd_II_None.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hand In Hand (feat. 2nd II None) (Street Version)",
+      "artist": "DJ Quik, 2nd II None",
+      "has_synced": true,
+      "path": "select/13_Hand_In_Hand_(feat._2nd_II_None)_(Street_Version)_DJ_Quik,_2nd_II_None.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hand in Hand",
+      "artist": "No Pressure",
+      "has_synced": true,
+      "path": "select/14_Hand_in_Hand_No_Pressure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hand in Hand",
+      "artist": "livetune, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_Hand_in_Hand_livetune,_初音ミク.txt"
+    }
+  ]
+}
